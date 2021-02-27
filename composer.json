@@ -1,0 +1,15 @@
+{
+    "name":              "digidesk/empty",
+    "description":       "this is an empty package",
+    "minimum-stability": "stable",
+    "license":           "proprietary",
+    "authors":           [
+        {
+            "name":  "digidesk - media solutions",
+            "email": "support@digidesk.de"
+        }
+    ],
+    "require":           {
+
+    }
+}
